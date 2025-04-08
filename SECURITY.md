@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within API Testing Templates, please send an email to security@yourdomain.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within API Testing Templates, please send an email to https://hydcloud.com. All security vulnerabilities will be promptly addressed.
 
 Please do not disclose security-related issues publicly until a fix has been announced.
 
